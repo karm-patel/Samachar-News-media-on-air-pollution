@@ -1,16 +1,16 @@
 # 
 ## Samachar: News Media on Air Pollution in India
 
-<hr>
-This repository contains codes (Jupyter Notebooks) to reproduce the figures and results of our submission under review at COMPASS-2022. Each folder represents a section in the paper. <br></br>
+
+This repository contains codes (Jupyter Notebooks) to reproduce the figures and results of our submission accepted in [COMPASS 2022](https://compass.acm.org/). Each folder represents a section in the paper. <br></br>
 
 - **Section Overview**
 
 |**Section**|**Title**|**Decription**|
 |--|--|--|
 |3|[Dataset](dataset)|We are making the News-articles-dataset public. (**Note**:  PM25 data is publicly available in [CPCB](https://app.cpcbccr.com/ccr/#/caaqm-dashboard-all/caaqm-landing/caaqm-data-availability) portal and [OpenAQ](https://openaq.org/#/) website.)|
-|5.1|[Research-Question-1](Research_Question_1)|How do news media respond to air pollution?|
-|5.2|[Research-Question-2](Research_Question_2)|What are the air pollution related topics discussed by news media? (Topic Modeling)|
+|5.1|[Research-Question-1](Research_Question_1)|Does the news media coverage around air pollution exhibit a geographical and/or temporal bias?|
+|5.2|[Research-Question-2](Research_Question_2)|Does the news media coverage around air pollution exhibit deviation from scientific evidence around sources and impact of air pollution?|
 
 <br></br>
 - **Tables/Figures**
