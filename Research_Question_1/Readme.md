@@ -1,4 +1,4 @@
-## Research-Question-1: How do news media respond to air pollution? (Section 5.1)
+## Research-Question-1: Does the news media coverage around air pollution exhibit a geographical and/or temporal bias? (Section 5.1)
 <hr>
 
 |Figure/Table|File/Folder| Decription |
