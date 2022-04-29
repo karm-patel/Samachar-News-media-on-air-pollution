@@ -1,4 +1,4 @@
-  ## Research-Question-2: What are the air pollution related topics discussed by news media? (Section 5.2)
+  ## Research Question-2: Does the news media coverage around air pollution exhibit deviation from scientific evidence around sources and impact of air pollution? (Section 5.2)
 <hr>
 
 |Figure/Table|File/Folder| Decription |
