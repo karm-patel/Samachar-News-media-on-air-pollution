@@ -2,7 +2,7 @@
 ## Samachar: News Media on Air Pollution in India
 
 
-This repository contains codes (Jupyter Notebooks) to reproduce the figures and results of our submission accepted in [COMPASS 2022](https://compass.acm.org/). Each folder represents a section in the paper. <br></br>
+This repository contains codes (Jupyter Notebooks) to reproduce the figures and results of our submission (https://dl.acm.org/doi/pdf/10.1145/3530190.3534812) accepted in [COMPASS 2022](https://compass.acm.org/). Each folder represents a section in the paper. <br></br>
 
 - **Section Overview**
 
@@ -28,3 +28,16 @@ This repository contains codes (Jupyter Notebooks) to reproduce the figures and 
 |Figure 7|[Research_Question_2/Figure-7_Topic-evolution-over-time.ipynb](Research_Question_2/Figure-7_Topic-evolution-over-time.ipynb)|Frequency of articles of topic over time |
 |Figure 8|[Research_Question_2/Figure-8_Open-fire-vs-Stubble-burning-articles.ipynb](Research_Question_2/Figure-8_Open-fire-vs-Stubble-burning-articles.ipynb)|Timeseries of NASA Open Fire cout data (VIIRS) [`firedata`](Research_Question_2/firedata) to identify when stubble burning is happening and compare firecount|
 |Figure 9|[Research_Question_2/Figure-9_Source-contribution-Delhi.ipynb](Research_Question_2/Figure-9_Source-contribution-Delhi.ipynb)|Comparison of Sources contribution to PM<sub>2.5</sub> in Delhi and articles relavent to particular sources, to verify if media discussion is in consonance with source contribution.|
+
+
+-  **Citation**
+
+```sh
+@inproceedings{patel2022samachar,
+  title={Samachar: print news media on air pollution in India},
+  author={Patel, Karm and Adhikary, Rishiraj and Patel, Zeel B and Batra, Nipun and Guttikunda, Sarath},
+  booktitle={ACM SIGCAS/SIGCHI Conference on Computing and Sustainable Societies (COMPASS)},
+  pages={401--413},
+  year={2022}
+}
+```
